@@ -35,13 +35,13 @@ A beginner-friendly Python Flask project demonstrating authentication between tw
 ## Evidence and Test Results
 
 ### Service A Logs
-![Service A logs](screenshots/service-a-logs.png)
+![Service A logs](service-a-logs.png)
 
 ### Service B Logs
-![Service B logs](screenshots/service-b-logs.png)
+![Service B logs](service-b-logs.png)
 
 ### Inventory API Response
-![Inventory response](screenshots/inventory-response.png)
+![Inventory response](inventory-response.png)
 
 ## Security Concepts Practiced
 - Authentication and bearer tokens
